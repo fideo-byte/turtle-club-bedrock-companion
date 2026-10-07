@@ -1,3 +1,5 @@
-# Turtle Club Bedrock Companion v1.1
+# Turtle Club Bedrock Companion v1.2
 
-God Gear progress tracking, librarian-linked enchantment availability, separate Fortune/Silk Touch pickaxes, category/overall completion, offline PWA support, and preservation of the existing `tc-libs` librarian data.
+Installable Minecraft Bedrock PWA.
+
+v1.2 adds My World projects, phases, tasks, search/filtering, archive/restore, private local World Profile, versioned local data, and full JSON backup/restore while preserving v1.1 librarian and God Gear progress.
