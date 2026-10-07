@@ -1,4 +1,3 @@
-# Turtle Club Bedrock Companion v1
-Installable PWA. Includes God Gear, 16-slot librarian tracker, world dashboard, offline cache, and Bedrock update page.
-Upload all files to an HTTPS static host. Open the hosted URL in Chrome on Android and choose Install app / Add to Home screen.
-v1 update reference: Bedrock 26.52, verified September 25, 2026. Automatic remote update detection is planned for the hosted iteration.
+# Turtle Club Bedrock Companion v1.1
+
+God Gear progress tracking, librarian-linked enchantment availability, separate Fortune/Silk Touch pickaxes, category/overall completion, offline PWA support, and preservation of the existing `tc-libs` librarian data.
